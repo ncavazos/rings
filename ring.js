@@ -1,5 +1,5 @@
 setFunction({
-  name: 'rings',
+  name: 'ring',
   type: 'src',
   inputs: [
     {
