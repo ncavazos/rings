@@ -79,8 +79,8 @@ setFunction({
     y = smoothstep(.28,.31,pct);
     
     //gradient
-    float sync = u_time/1.0;
-    vec3 gr = vec3(abs(sin(st.x*3.14+u_time)));
+    float sync = time/1.0;
+    vec3 gr = vec3(abs(sin(st.x*3.14+time)));
     
     vec3 color = vec3(1.0-x-(1.0-y)-(gr));
     return vec4(color,1.0);`
