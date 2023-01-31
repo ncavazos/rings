@@ -25,7 +25,7 @@ setFunction({
   ],
   glsl: `   vec2 st = _st;
 
-//original circle
+    //original circle
     float pct = 0.0;
     pct = distance(st,vec2(0.5));
     
@@ -36,12 +36,7 @@ setFunction({
     //smooth second circle
     float y = 0.0;
     y = smoothstep(.28,.31,pct);
-    
-    
-    
-    
-    
-
+   
     vec3 color = vec3(1.0-x-(1.0-y));
 
     return vec4(color,1.0);`
