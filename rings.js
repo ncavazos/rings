@@ -66,7 +66,7 @@ setFunction({
       default: .31,
     },
   ],
-
+  glsl: `   vec2 st = _st;
     float pct = 0.0;
     pct = distance(st,vec2(0.5));
     
