@@ -1,6 +1,6 @@
 # rings
 Ring object for Hydra<br>
-![](rings.png)</br>
+![](rings.gif)</br>
 # Types of Rings</br>
 There are three main versions of rings:</br>
 Basic Ring:</br>
