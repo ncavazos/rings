@@ -1,4 +1,4 @@
-# rings
+# Rings
 Ring object for Hydra<br>
 ![](rings.gif)</br>
 # Types of Rings</br>
