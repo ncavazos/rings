@@ -4,6 +4,9 @@ Ring object for Hydra<br>
 # Types of Rings</br>
 There are three main versions of rings:</br>
 Ring:</br>
+![]ring.png</br>
+![]mRing.png</br>
+![]mcRing.png</br>
 Modulated Ring:</br>
 Modulated/Colored Ring:</br>
 ## Using rings</br>
