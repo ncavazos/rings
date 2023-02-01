@@ -15,7 +15,7 @@ await loadScript('https://cdn.jsdelivr.net/gh/ncavazos/rings@main/rings.js')
 
 ![](parameters.png)</br>
 There are 4 main parameters on each ring</br>
-Parameters 1 and 2 dictate the outer ring size/br>
+Parameters 1 and 2 dictate the outer ring size</br>
 3 and 4 determine the size and blend of the inner part of ring</br>
 
 Difference between param 1-2 yields a different slope
