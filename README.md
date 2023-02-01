@@ -7,7 +7,7 @@ Basic Ring / ring() :</br>
 ![](Ring_01.jpg)</br>
 Modulated Ring/ mring() :</br>
 ![](mRing_01.jpg)</br>
-Modulated-Colored Ring / mc_ring() Ring:</br>
+Modulated-Colored / mc_ring() Ring:</br>
 ![](mcRing_01.jpg)</br></br>
 ## Using rings</br>
 load the following line of code in to the top of your Hydra project:</br>
