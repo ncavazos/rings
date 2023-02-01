@@ -11,7 +11,7 @@ mc_ring() - modulated color ring: </br>
 ![](mcRing_01.jpg)</br></br>
 ## Using rings</br>
 **load the following line of code in to the top of your Hydra project:**</br>
-await loadScript('https://cdn.jsdelivr.net/gh/ncavazos/rings@main/rings.js')
+await loadScript('https://cdn.jsdelivr.net/gh/ncavazos/rings@main/rings.js')</br>
 
 ![](parameters.png)</br></br>
 There are 4 main parameters on each ring</br>
