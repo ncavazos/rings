@@ -3,6 +3,9 @@ Ring object for Hydra<br>
 ![](rings.png)</br>
 # Types of Rings</br>
 There are three main versions of rings:</br>
+Ring:</br>
+Modulated Ring:</br>
+Modulated/Colored Ring:</br>
 ## Using rings</br>
 load the following line of code in to the top of your Hydra project:</br>
 await loadScript('https://cdn.jsdelivr.net/gh/ncavazos/rings@main/rings.js')
