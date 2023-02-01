@@ -5,7 +5,7 @@ Ring object for Hydra<br>
 There are three main versions of rings:</br>
 ring() - basic ring:</br>
 ![](Ring_01.jpg)</br>
-mring() 0 modulated ring: </br>
+mring() - modulated ring: </br>
 ![](mRing_01.jpg)</br>
 mc_ring() - modulated color ring: </br>
 ![](mcRing_01.jpg)</br></br>
