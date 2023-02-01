@@ -4,11 +4,11 @@ Ring object for Hydra<br>
 # Types of Rings</br>
 There are three main versions of rings:</br>
 Basic Ring:</br>
-![](Ring.png)</br>
+![](Ring.jpg)</br>
 Modulated Ring:</br>
-![](mRing.png)</br>
+![](mRing.jpg)</br>
 Modulated/Colored Ring:</br>
-![](mcRing.png)</br></br>
+![](mcRing.jpg)</br></br>
 ## Using rings</br>
 load the following line of code in to the top of your Hydra project:</br>
 await loadScript('https://cdn.jsdelivr.net/gh/ncavazos/rings@main/rings.js')
