@@ -18,4 +18,4 @@ There are 4 main parameters on each ring</br>
 Parameters 1 and 2 dictate the outer ring size</br>
 3 and 4 determine the size and blend of the inner part of ring</br>
 
-Difference between param 1-2 yields a different slope
+Difference between each pair of parameters yields a different slope
