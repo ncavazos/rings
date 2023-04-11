@@ -3,11 +3,11 @@ Ring object for Hydra<br>
 ![](rings.gif)</br>
 # Types of Rings</br>
 There are three main versions of rings:</br>
-##ring() - basic ring:</br>
+## ring() - basic ring:</br>
 ![](Ring_01.jpg)</br>
-##mring() - modulated ring: </br>
+## mring() - modulated ring: </br>
 ![](mRing_01.jpg)</br>
-##mc_ring() - modulated color ring: </br>
+## mc_ring() - modulated color ring: </br>
 ![](mcRing_01.jpg)</br></br>
 ## Using rings</br>
 **load the following line of code in to the top of your Hydra project:**</br>
